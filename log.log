@@ -1,0 +1,547 @@
+2024-09-07 21:40:17,611 - INFO - test RRR 的类级别setup
+2024-09-07 21:40:17,612 - INFO - test rerun
+2024-09-07 21:40:17,612 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:40:17,613 - INFO - test rerun
+2024-09-07 21:40:17,613 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:40:17,614 - INFO -  test q
+2024-09-07 21:40:17,614 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:40:17,633 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:41:31,391 - INFO - test RRR 的类级别setup
+2024-09-07 21:41:31,392 - INFO - test rerun
+2024-09-07 21:41:31,392 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:41:31,393 - INFO - test rerun
+2024-09-07 21:41:31,393 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:41:31,394 - INFO -  test q
+2024-09-07 21:41:31,394 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:41:31,395 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:45:03,805 - INFO - test RRR 的类级别setup
+2024-09-07 21:45:03,806 - INFO - test rerun
+2024-09-07 21:45:03,806 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:45:03,807 - INFO - test rerun
+2024-09-07 21:45:03,807 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:45:03,808 - INFO -  test q
+2024-09-07 21:45:03,808 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:45:03,826 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:49:30,314 - INFO - test RRR 的类级别setup
+2024-09-07 21:49:30,315 - INFO - test rerun
+2024-09-07 21:49:30,316 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:49:30,317 - INFO - test rerun
+2024-09-07 21:49:30,317 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:49:30,337 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:49:30,338 - INFO -  test q
+2024-09-07 21:49:30,338 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:49:52,230 - INFO - test RRR 的类级别setup
+2024-09-07 21:49:52,230 - INFO - test rerun
+2024-09-07 21:49:52,231 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:49:52,231 - INFO - test rerun
+2024-09-07 21:49:52,232 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:49:52,250 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:49:52,251 - INFO -  test q
+2024-09-07 21:49:52,251 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:50:34,253 - INFO - test RRR 的类级别setup
+2024-09-07 21:50:34,253 - INFO - test rerun
+2024-09-07 21:50:34,253 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:50:34,254 - INFO - test rerun
+2024-09-07 21:50:34,255 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:50:34,273 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:50:34,274 - INFO -  test q
+2024-09-07 21:50:34,274 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:53:52,211 - INFO - test RRR 的类级别setup
+2024-09-07 21:53:52,211 - INFO - test rerun
+2024-09-07 21:53:52,211 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:53:52,212 - INFO - test rerun
+2024-09-07 21:53:52,212 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:53:52,230 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:53:52,231 - INFO -  test q
+2024-09-07 21:53:52,232 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:55:00,618 - INFO - test RRR 的类级别setup
+2024-09-07 21:55:00,618 - INFO - test rerun
+2024-09-07 21:55:00,619 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:55:00,619 - INFO - test rerun
+2024-09-07 21:55:00,620 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:55:00,637 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:55:00,638 - INFO -  test q
+2024-09-07 21:55:00,639 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:56:08,942 - INFO - test RRR 的类级别setup
+2024-09-07 21:56:08,942 - INFO - test rerun
+2024-09-07 21:56:08,942 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:56:08,943 - INFO - test rerun
+2024-09-07 21:56:08,943 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:56:08,961 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:56:08,962 - INFO -  test q
+2024-09-07 21:56:08,963 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:57:35,904 - INFO - test RRR 的类级别setup
+2024-09-07 21:57:35,905 - INFO - test rerun
+2024-09-07 21:57:35,905 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:57:35,906 - INFO - test rerun
+2024-09-07 21:57:35,906 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:57:35,924 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:57:35,926 - INFO -  test q
+2024-09-07 21:57:35,926 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:59:31,463 - INFO - test RRR 的类级别setup
+2024-09-07 21:59:31,464 - INFO - test rerun
+2024-09-07 21:59:31,464 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:59:31,465 - INFO - test rerun
+2024-09-07 21:59:31,465 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:59:31,484 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 21:59:31,485 - INFO -  test q
+2024-09-07 21:59:31,485 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 22:00:04,919 - INFO - test RRR 的类级别setup
+2024-09-07 22:00:04,919 - INFO - test rerun
+2024-09-07 22:00:04,919 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 22:00:04,920 - INFO - test rerun
+2024-09-07 22:00:04,920 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 22:00:04,938 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 22:00:04,939 - INFO -  test q
+2024-09-07 22:00:04,940 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 22:00:20,329 - INFO - test RRR 的类级别setup
+2024-09-07 22:00:20,329 - INFO - test rerun
+2024-09-07 22:00:20,330 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 22:00:20,330 - INFO - test rerun
+2024-09-07 22:00:20,331 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 22:00:20,349 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 22:00:20,351 - INFO -  test q
+2024-09-07 22:00:20,351 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 23:16:32,574 - INFO - test RRR 的类级别setup
+2024-09-07 23:16:32,575 - INFO - test rerun
+2024-09-07 23:16:32,575 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 23:16:32,576 - INFO - test rerun
+2024-09-07 23:16:32,576 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 23:16:32,593 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 23:16:32,594 - INFO -  test q
+2024-09-07 23:16:32,595 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 23:30:04,582 - INFO - test RRR 的类级别setup
+2024-09-07 23:30:04,583 - INFO - test rerun
+2024-09-07 23:30:04,583 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 23:30:04,584 - INFO - test rerun
+2024-09-07 23:30:04,584 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 23:30:04,606 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 23:30:04,607 - INFO -  test q
+2024-09-07 23:30:04,607 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 23:30:52,532 - INFO - test RRR 的类级别setup
+2024-09-07 23:30:52,532 - INFO - test rerun
+2024-09-07 23:30:52,532 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 23:30:52,533 - INFO - test rerun
+2024-09-07 23:30:52,533 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 23:30:52,555 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 23:30:52,556 - INFO -  test q
+2024-09-07 23:30:52,556 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 23:37:51,023 - INFO - test RRR 的类级别setup
+2024-09-07 23:37:51,023 - INFO - test rerun
+2024-09-07 23:37:51,023 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 23:37:51,024 - INFO - test rerun
+2024-09-07 23:37:51,024 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 23:37:51,047 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-07 23:37:51,047 - INFO -  test q
+2024-09-07 23:37:51,048 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:16:16,164 - INFO - test RRR 的类级别setup
+2024-09-08 09:16:16,164 - INFO - test rerun
+2024-09-08 09:16:16,165 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:16:16,165 - INFO - test rerun
+2024-09-08 09:16:16,166 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:16:16,187 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:16:16,188 - INFO -  test q
+2024-09-08 09:16:16,188 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:16:26,148 - INFO - test RRR 的类级别setup
+2024-09-08 09:16:26,149 - INFO - test rerun
+2024-09-08 09:16:26,149 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:16:26,150 - INFO - test rerun
+2024-09-08 09:16:26,150 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:16:26,171 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:16:26,171 - INFO -  test q
+2024-09-08 09:16:26,172 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:16:37,009 - INFO - test RRR 的类级别setup
+2024-09-08 09:16:37,010 - INFO - test rerun
+2024-09-08 09:16:37,010 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:16:37,011 - INFO - test rerun
+2024-09-08 09:16:37,011 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:16:37,032 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:16:37,033 - INFO -  test q
+2024-09-08 09:16:37,033 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:49:42,484 - INFO - test RRR 的类级别setup
+2024-09-08 09:49:42,485 - INFO - test rerun
+2024-09-08 09:49:42,486 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:49:42,487 - INFO - test rerun
+2024-09-08 09:49:42,488 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:49:42,508 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:49:42,509 - INFO -  test q
+2024-09-08 09:49:42,510 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:52:18,247 - INFO - test RRR 的类级别setup
+2024-09-08 09:52:18,247 - INFO - test rerun
+2024-09-08 09:52:18,248 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:52:18,248 - INFO - test rerun
+2024-09-08 09:52:18,249 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:52:18,269 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:52:18,270 - INFO -  test q
+2024-09-08 09:52:18,270 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:53:41,935 - INFO - test RRR 的类级别setup
+2024-09-08 09:53:41,936 - INFO - test rerun
+2024-09-08 09:53:41,936 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:53:41,937 - INFO - test rerun
+2024-09-08 09:53:41,937 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:53:41,959 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:53:41,959 - INFO -  test q
+2024-09-08 09:53:41,960 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:56:49,117 - INFO - test RRR 的类级别setup
+2024-09-08 09:56:49,118 - INFO - test rerun
+2024-09-08 09:56:49,118 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:56:49,119 - INFO - test rerun
+2024-09-08 09:56:49,119 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:56:49,140 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:56:49,141 - INFO -  test q
+2024-09-08 09:56:49,142 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:58:57,336 - INFO - test RRR 的类级别setup
+2024-09-08 09:58:57,337 - INFO - test rerun
+2024-09-08 09:58:57,337 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:58:57,338 - INFO - test rerun
+2024-09-08 09:58:57,338 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:58:57,362 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 09:58:57,363 - INFO -  test q
+2024-09-08 09:58:57,363 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:00:35,948 - INFO - test RRR 的类级别setup
+2024-09-08 10:00:35,948 - INFO - test rerun
+2024-09-08 10:00:35,949 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:00:35,950 - INFO - test rerun
+2024-09-08 10:00:35,950 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:00:35,973 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:00:35,974 - INFO -  test q
+2024-09-08 10:00:35,975 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:02:15,436 - INFO - test RRR 的类级别setup
+2024-09-08 10:02:15,436 - INFO - test rerun
+2024-09-08 10:02:15,437 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:02:15,437 - INFO - test rerun
+2024-09-08 10:02:15,438 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:02:15,461 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:02:15,462 - INFO -  test q
+2024-09-08 10:02:15,463 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:06:03,544 - INFO - test RRR 的类级别setup
+2024-09-08 10:06:03,544 - INFO - test rerun
+2024-09-08 10:06:03,544 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:06:03,545 - INFO - test rerun
+2024-09-08 10:06:03,546 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:06:03,569 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:06:03,570 - INFO -  test q
+2024-09-08 10:06:03,570 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:11:33,319 - INFO - test RRR 的类级别setup
+2024-09-08 10:11:33,319 - INFO - test rerun
+2024-09-08 10:11:33,320 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:11:33,321 - INFO - test rerun
+2024-09-08 10:11:33,321 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:11:33,345 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:11:33,347 - INFO -  test q
+2024-09-08 10:11:33,347 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:13:41,652 - INFO - test RRR 的类级别setup
+2024-09-08 10:13:41,653 - INFO - test rerun
+2024-09-08 10:13:41,653 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:13:41,654 - INFO - test rerun
+2024-09-08 10:13:41,654 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:13:41,679 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:13:41,680 - INFO -  test q
+2024-09-08 10:13:41,680 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:15:23,329 - INFO - test RRR 的类级别setup
+2024-09-08 10:15:23,329 - INFO - test rerun
+2024-09-08 10:15:23,330 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:15:23,331 - INFO - test rerun
+2024-09-08 10:15:23,331 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:15:23,354 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:15:23,355 - INFO -  test q
+2024-09-08 10:15:23,355 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:16:57,195 - INFO - test RRR 的类级别setup
+2024-09-08 10:16:57,196 - INFO - test rerun
+2024-09-08 10:16:57,196 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:16:57,197 - INFO - test rerun
+2024-09-08 10:16:57,197 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:16:57,221 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:16:57,222 - INFO -  test q
+2024-09-08 10:16:57,222 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:18:19,231 - INFO - test RRR 的类级别setup
+2024-09-08 10:18:19,232 - INFO - test rerun
+2024-09-08 10:18:19,232 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:18:19,233 - INFO - test rerun
+2024-09-08 10:18:19,233 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:18:19,257 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:18:19,258 - INFO -  test q
+2024-09-08 10:18:19,258 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:21:02,758 - INFO - test RRR 的类级别setup
+2024-09-08 10:21:02,758 - INFO - test rerun
+2024-09-08 10:21:02,759 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:21:02,759 - INFO - test rerun
+2024-09-08 10:21:02,760 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:21:02,780 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:21:02,781 - INFO -  test q
+2024-09-08 10:21:02,782 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:26:58,526 - INFO - test RRR 的类级别setup
+2024-09-08 10:26:58,527 - INFO - test rerun
+2024-09-08 10:26:58,527 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:26:58,528 - INFO - test rerun
+2024-09-08 10:26:58,529 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:26:58,550 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:26:58,551 - INFO -  test q
+2024-09-08 10:26:58,552 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:32:01,185 - INFO - test RRR 的类级别setup
+2024-09-08 10:32:01,186 - INFO - test rerun
+2024-09-08 10:32:01,187 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:32:01,190 - INFO - test rerun
+2024-09-08 10:32:01,191 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:32:01,213 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:32:01,214 - INFO -  test q
+2024-09-08 10:32:01,215 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:33:41,259 - INFO - test RRR 的类级别setup
+2024-09-08 10:33:41,260 - INFO - test rerun
+2024-09-08 10:33:41,260 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:33:41,262 - INFO - test rerun
+2024-09-08 10:33:41,262 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:33:41,282 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:33:41,283 - INFO -  test q
+2024-09-08 10:33:41,283 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:34:48,571 - INFO - test RRR 的类级别setup
+2024-09-08 10:34:48,572 - INFO - test rerun
+2024-09-08 10:34:48,574 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:34:48,577 - INFO - test rerun
+2024-09-08 10:34:48,578 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:34:48,602 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:34:48,605 - INFO -  test q
+2024-09-08 10:34:48,606 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:37:20,504 - INFO - test RRR 的类级别setup
+2024-09-08 10:37:20,507 - INFO - test rerun
+2024-09-08 10:37:20,510 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:37:20,514 - INFO - test rerun
+2024-09-08 10:37:20,515 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:37:20,536 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:37:20,540 - INFO -  test q
+2024-09-08 10:37:20,541 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:38:26,348 - INFO - test RRR 的类级别setup
+2024-09-08 10:38:26,350 - INFO - test rerun
+2024-09-08 10:38:26,352 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:38:26,357 - INFO - test rerun
+2024-09-08 10:38:26,358 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:38:26,380 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:38:26,383 - INFO -  test q
+2024-09-08 10:38:26,385 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:39:40,123 - INFO - test RRR 的类级别setup
+2024-09-08 10:39:40,125 - INFO - test rerun
+2024-09-08 10:39:40,127 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:39:40,130 - INFO - test rerun
+2024-09-08 10:39:40,132 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:39:40,153 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:39:40,156 - INFO -  test q
+2024-09-08 10:39:40,157 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:40:56,826 - INFO - test RRR 的类级别setup
+2024-09-08 10:40:56,828 - INFO - test rerun
+2024-09-08 10:40:56,830 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:40:56,833 - INFO - test rerun
+2024-09-08 10:40:56,835 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:40:56,856 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:40:56,859 - INFO -  test q
+2024-09-08 10:40:56,860 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:42:09,578 - INFO - test RRR 的类级别setup
+2024-09-08 10:42:09,580 - INFO - test rerun
+2024-09-08 10:42:09,581 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:42:09,584 - INFO - test rerun
+2024-09-08 10:42:09,586 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:42:09,610 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:42:09,613 - INFO -  test q
+2024-09-08 10:42:09,614 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:44:09,301 - INFO - test RRR 的类级别setup
+2024-09-08 10:44:09,301 - INFO - test rerun
+2024-09-08 10:44:09,302 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:44:09,304 - INFO - test rerun
+2024-09-08 10:44:09,305 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:44:09,324 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 10:44:09,326 - INFO -  test q
+2024-09-08 10:44:09,326 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 11:07:51,468 - INFO - test RRR 的类级别setup
+2024-09-08 11:07:51,472 - INFO - test rerun
+2024-09-08 11:07:51,474 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 11:07:51,476 - INFO - test rerun
+2024-09-08 11:07:51,477 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 11:07:51,497 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 11:07:51,498 - INFO -  test q
+2024-09-08 11:07:51,499 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 11:12:01,470 - INFO - test RRR 的类级别setup
+2024-09-08 11:12:01,471 - INFO - test rerun
+2024-09-08 11:12:01,472 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 11:12:01,475 - INFO - test rerun
+2024-09-08 11:12:01,476 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 11:12:01,495 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 11:12:01,496 - INFO -  test q
+2024-09-08 11:12:01,497 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 11:15:32,538 - INFO - test RRR 的类级别setup
+2024-09-08 11:15:32,539 - INFO - test rerun
+2024-09-08 11:15:32,541 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 11:15:32,546 - INFO - test rerun
+2024-09-08 11:15:32,547 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 11:15:32,568 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 11:15:32,569 - INFO -  test q
+2024-09-08 11:15:32,570 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 11:57:36,140 - INFO - test RRR 的类级别setup
+2024-09-08 11:57:36,140 - INFO - test rerun
+2024-09-08 11:57:36,141 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 11:57:36,163 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 11:57:36,166 - INFO -  test q
+2024-09-08 11:57:36,167 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:10:03,725 - INFO - test RRR 的类级别setup
+2024-09-08 12:10:03,726 - INFO - test rerun
+2024-09-08 12:10:03,727 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:10:03,751 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:10:03,755 - INFO -  test q
+2024-09-08 12:10:03,756 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:21:13,653 - INFO - test RRR 的类级别setup
+2024-09-08 12:21:13,654 - INFO - test rerun
+2024-09-08 12:21:13,655 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:21:13,683 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:21:13,688 - INFO -  test q
+2024-09-08 12:21:13,689 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:48:37,057 - INFO - test RRR 的类级别setup
+2024-09-08 12:48:37,058 - INFO - test rerun
+2024-09-08 12:48:37,059 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:48:37,082 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:48:37,085 - INFO -  test q
+2024-09-08 12:48:37,086 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:53:52,250 - INFO - test RRR 的类级别setup
+2024-09-08 12:53:52,252 - INFO - test rerun
+2024-09-08 12:53:52,252 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:53:52,277 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:53:52,280 - INFO -  test q
+2024-09-08 12:53:52,281 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:56:59,580 - INFO - test RRR 的类级别setup
+2024-09-08 12:56:59,581 - INFO - test rerun
+2024-09-08 12:56:59,582 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:56:59,605 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:56:59,608 - INFO -  test q
+2024-09-08 12:56:59,609 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:58:02,849 - INFO - test RRR 的类级别setup
+2024-09-08 12:58:02,851 - INFO - test rerun
+2024-09-08 12:58:02,852 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:58:02,877 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 12:58:02,879 - INFO -  test q
+2024-09-08 12:58:02,880 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:06:01,854 - INFO - test RRR 的类级别setup
+2024-09-08 13:06:01,855 - INFO - test rerun
+2024-09-08 13:06:01,856 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:06:01,878 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:06:01,881 - INFO -  test q
+2024-09-08 13:06:01,881 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:10:50,677 - INFO - test RRR 的类级别setup
+2024-09-08 13:10:50,678 - INFO - test rerun
+2024-09-08 13:10:50,679 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:10:50,702 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:10:50,705 - INFO -  test q
+2024-09-08 13:10:50,706 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:29:08,608 - INFO - test RRR 的类级别setup
+2024-09-08 13:29:08,609 - INFO - test rerun
+2024-09-08 13:29:08,609 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:29:08,632 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:29:08,635 - INFO -  test q
+2024-09-08 13:29:08,635 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:29:16,750 - INFO - test RRR 的类级别setup
+2024-09-08 13:29:16,751 - INFO - test rerun
+2024-09-08 13:29:16,752 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:29:16,776 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:29:16,778 - INFO -  test q
+2024-09-08 13:29:16,779 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:30:17,569 - INFO - test RRR 的类级别setup
+2024-09-08 13:30:17,570 - INFO - test rerun
+2024-09-08 13:30:17,570 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:30:17,590 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:30:17,592 - INFO -  test q
+2024-09-08 13:30:17,592 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:40:29,755 - INFO - test RRR 的类级别setup
+2024-09-08 13:40:29,756 - INFO - test rerun
+2024-09-08 13:40:29,757 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:40:29,780 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 13:40:29,781 - INFO -  test q
+2024-09-08 13:40:29,781 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 14:16:38,966 - INFO - test RRR 的类级别setup
+2024-09-08 14:16:38,967 - INFO - test rerun
+2024-09-08 14:16:38,967 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 14:16:38,987 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 14:16:38,989 - INFO -  test q
+2024-09-08 14:16:38,989 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 14:17:41,186 - INFO - test RRR 的类级别setup
+2024-09-08 14:17:41,187 - INFO - test rerun
+2024-09-08 14:17:41,187 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 14:17:41,207 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 14:17:41,209 - INFO -  test q
+2024-09-08 14:17:41,209 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 14:20:36,633 - INFO - test RRR 的类级别setup
+2024-09-08 14:20:36,634 - INFO - test rerun
+2024-09-08 14:20:36,634 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 14:20:36,654 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 14:20:36,656 - INFO -  test q
+2024-09-08 14:20:36,656 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 15:38:57,666 - INFO - test RRR 的类级别setup
+2024-09-08 15:38:57,673 - INFO - test rerun
+2024-09-08 15:38:57,673 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 15:38:57,699 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 15:38:57,700 - INFO -  test q
+2024-09-08 15:38:57,700 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 15:39:21,409 - INFO - test RRR 的类级别setup
+2024-09-08 15:39:21,428 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 15:39:21,430 - INFO -  test q
+2024-09-08 15:39:21,430 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 15:39:22,418 - INFO - test RRR 的类级别setup
+2024-09-08 15:39:22,419 - INFO - test rerun
+2024-09-08 15:39:22,419 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 15:40:16,865 - INFO - test RRR 的类级别setup
+2024-09-08 15:40:16,865 - INFO - test rerun
+2024-09-08 15:40:16,865 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 15:40:16,885 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 15:40:17,881 - INFO - test RRR 的类级别setup
+2024-09-08 15:40:17,881 - INFO -  test q
+2024-09-08 15:40:17,882 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 15:41:06,818 - INFO - test RRR 的类级别setup
+2024-09-08 15:41:06,819 - INFO -  test q
+2024-09-08 15:41:06,819 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 15:41:07,823 - INFO - test RRR 的类级别setup
+2024-09-08 15:41:07,823 - INFO - test rerun
+2024-09-08 15:41:07,824 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 15:41:07,844 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 15:41:23,279 - INFO - test RRR 的类级别setup
+2024-09-08 15:41:23,279 - INFO - test rerun
+2024-09-08 15:41:23,279 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 15:41:23,299 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 15:41:23,300 - INFO -  test q
+2024-09-08 15:41:23,301 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 16:42:38,114 - INFO - test RRR 的类级别setup
+2024-09-08 16:42:38,114 - INFO - test rerun
+2024-09-08 16:42:38,114 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 16:42:38,133 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 16:42:38,135 - INFO -  test q
+2024-09-08 16:42:38,135 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 16:56:34,130 - INFO - test RRR 的类级别setup
+2024-09-08 16:56:34,130 - INFO - test rerun
+2024-09-08 16:56:34,130 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 16:56:34,149 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 16:56:34,150 - INFO -  test q
+2024-09-08 16:56:34,151 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 17:02:08,347 - INFO - test RRR 的类级别setup
+2024-09-08 17:02:08,347 - INFO - test rerun
+2024-09-08 17:02:08,347 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 17:02:08,367 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 17:02:08,368 - INFO -  test q
+2024-09-08 17:02:08,368 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 17:02:21,613 - INFO - test RRR 的类级别setup
+2024-09-08 17:02:21,614 - INFO - test rerun
+2024-09-08 17:02:21,614 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 17:02:21,633 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 17:02:21,634 - INFO -  test q
+2024-09-08 17:02:21,635 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 17:02:53,646 - INFO - test RRR 的类级别setup
+2024-09-08 17:02:53,646 - INFO - test rerun
+2024-09-08 17:02:53,646 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 17:02:53,665 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 17:02:53,666 - INFO -  test q
+2024-09-08 17:02:53,667 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 17:03:04,228 - INFO - test RRR 的类级别setup
+2024-09-08 17:03:04,229 - INFO - test rerun
+2024-09-08 17:03:04,230 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 17:03:04,253 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 17:03:04,256 - INFO -  test q
+2024-09-08 17:03:04,258 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 17:03:54,999 - INFO - test RRR 的类级别setup
+2024-09-08 17:03:54,999 - INFO - test rerun
+2024-09-08 17:03:54,999 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 17:03:55,018 - INFO - teardown test RRR d的 方法级别teardown
+2024-09-08 17:03:55,019 - INFO -  test q
+2024-09-08 17:03:55,020 - INFO - teardown test RRR d的 方法级别teardown

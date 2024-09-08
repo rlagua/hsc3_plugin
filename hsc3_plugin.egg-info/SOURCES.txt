@@ -1,0 +1,12 @@
+setup.py
+hsc3_plugin/addopts.py
+hsc3_plugin/base.py
+hsc3_plugin/declare_hooks.py
+hsc3_plugin/plugin.py
+hsc3_plugin/realise_hooks.py
+hsc3_plugin.egg-info/PKG-INFO
+hsc3_plugin.egg-info/SOURCES.txt
+hsc3_plugin.egg-info/dependency_links.txt
+hsc3_plugin.egg-info/entry_points.txt
+hsc3_plugin.egg-info/requires.txt
+hsc3_plugin.egg-info/top_level.txt

@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: hsc3-plugin
+Version: 1.0.4
+Summary: A custom pytest plugin with hsc3 option
+Author: Your Name
+Author-email: your_email@example.com
+Classifier: Framework :: Pytest
+Classifier: Programming Language :: Python :: 3
